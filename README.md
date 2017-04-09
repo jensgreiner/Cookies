@@ -1,5 +1,5 @@
 # Cookies
-Udacity Android Basics Scholarship EU
+Udacity EU Scholarship Android Development for Beginners
 
 #### Lesson 3a Final Task 1
 
